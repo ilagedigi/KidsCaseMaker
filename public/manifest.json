@@ -1,7 +1,8 @@
 {
-  "name": "Smartphone Case Design & Customize",
+  "id": "/",
+  "name": "SparkleCase DIY - Personalizador de Capinhas",
   "short_name": "SparkleCase DIY",
-  "description": "An interactive, colorful smartphone case customization game for kids featuring spray paint, brushes, glitter, cute stickers, charms, PopSockets, and a live smartphone screen play mode.",
+  "description": "Um jogo interativo e colorido de personalização de capinhas de celular para crianças, com spray, pincéis, glitter, adesivos fofos, pingentes de miçanga e suporte PopSocket.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fffccd",
@@ -45,6 +46,22 @@
       "sizes": "512x512",
       "type": "image/jpeg",
       "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tela Inicial do Criador de Capinhas"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tela Inicial do Criador de Capinhas - Tablet"
     }
   ]
 }
