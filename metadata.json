@@ -1,0 +1,6 @@
+{
+  "name": "Smartphone Case Design & Customize",
+  "description": "An interactive, colorful smartphone case customization game for kids featuring spray paint, brushes, glitter, cute stickers, charms, PopSockets, and a live smartphone screen play mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
